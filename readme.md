@@ -93,7 +93,6 @@ The layout should somewhat look like this
 
 ![Desktop version](assets/img/collection_card.png)
 
-If you need some inspiration, check out the websites cited in the introduction, or have a look at Behance or Dribble.
 
 ## Part TWO
 
