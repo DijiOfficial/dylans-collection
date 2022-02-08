@@ -87,11 +87,11 @@ For each of your items you'll have to create a card element using the appropriat
 
 The layout should somewhat look like this
 
-![Desktop version](./collection_desktop.png)
+![Desktop version](assets/img/collection_desktop.png)
 
-![Desktop version](./collection_mobile.png)
+![Desktop version](assets/img/collection_mobile.png)
 
-![Desktop version](./collection_card.png)
+![Desktop version](assets/img/collection_card.png)
 
 If you need some inspiration, check out the websites cited in the introduction, or have a look at Behance or Dribble.
 
