@@ -1,0 +1,144 @@
+Age of mythology
+	-Steam Game = True
+    -Time Played = 375
+    -Realease Date = 2002
+    -Genre = ["Real-time strategy"]
+    -Achievments Completion = {64: 70}
+    -Developper Studio = ["SkyBox Labs", "Ensemble Studios"]
+    -Metacritic Score = 89
+Assassin's Creed Origins
+	-Steam Game = True
+    -Time Played = 66
+    -Realease Date = 2017
+    -Genre = ["Action role-playing"]
+    -Achievments Completion = {67: 67}
+    -Developper Studio = ["Ubisoft", "Ubisoft Montreal"]
+    -Metacritic Score = 84
+Dark Souls III
+	-Steam Game = True
+    -Time Played = 205
+    -Realease Date = 2016
+    -Genre = ["Action role-playing"]
+    -Achievments Completion = {43: 43}
+    -Developper Studio = ["FromSoftware Inc."]
+    -Metacritic Score = 89
+Fallout IV
+	-Steam Game = True
+    -Time Played = 299
+    -Realease Date = 2015
+    -Genre = ["Action role-playing"]
+    -Achievments Completion = {84: 84}
+    -Developper Studio = ["Bethesda Game Studios"]
+    -Metacritic Score = 84
+GTA V
+	-Steam Game = True
+    -Time Played = 953
+    -Realease Date = 2013
+    -Genre = ["Action-adventure"]
+    -Achievments Completion = {77: 77}
+    -Developper Studio = ["Rockstar Games"]
+    -Metacritic Score = 96
+Payday 2
+	-Steam Game = True
+    -Time Played = 1088
+    -Realease Date = 2013
+    -Genre = ["First-person shooter", "stealth"]
+    -Achievments Completion = {1262: 1218}
+    -Developper Studio = ["Starbreeze Studios", "Overkill Software", "Sumo Digital"]
+    -Metacritic Score = 79
+Valheim
+	-Steam Game = True
+    -Time Played = 154
+    -Realease Date = 2021
+    -Genre = ["Sandbox", "survival"]
+    -Achievments Completion = {0: 0}
+    -Developper Studio = ["Iron Gate AB"]
+    -Metacritic Score = 0
+Rainbow Six Siege
+	-Steam Game = True
+    -Time Played = 1500
+    -Realease Date = 2015
+    -Genre = ["Tactical shooter"]
+    -Achievments Completion = {0: 0}
+    -Developper Studio = ["Ubisoft Montreal"]
+    -Metacritic Score = 79
+Hotline Miami
+	-Steam Game = True
+    -Time Played = 14
+    -Realease Date = 2012
+    -Genre = ["Top-down shooter"]
+    -Achievments Completion = {35: 35}
+    -Developper Studio = ["Devolver Digital", "Dennaton Games"]
+    -Metacritic Score = 85
+Saints Row IV
+	-Steam Game = True
+    -Time Played = 44
+    -Realease Date = 2013
+    -Genre = ["Action-adventure"]
+    -Achievments Completion = {73: 41}
+    -Developper Studio = ["Deep Silver Volition", "High Voltage Software"]
+    -Metacritic Score = 86
+SpeedRunners
+	-Steam Game = True
+    -Time Played = 33
+    -Realease Date = 2013
+    -Genre = ["Platform"]
+    -Achievments Completion = {29: 26}
+    -Developper Studio = ["tinyBuild"]
+    -Metacritic Score = 84
+Unturned
+	-Steam Game = True
+    -Time Played = 32
+    -Realease Date = 2014
+    -Genre = ["Survival"]
+    -Achievments Completion = {63: 11}
+    -Developper Studio = ["Smartly Dressed Games", "Fun Labs"]
+    -Metacritic Score = 0
+The Forest
+	-Steam Game = True
+    -Time Played = 64 
+    -Realease Date = 2014
+    -Genre = ["Survival horror", "Survival game"]
+    -Achievments Completion = {45: 45} 
+    -Developper Studio = ["Endnight Games"]
+    -Metacritic Score = 83
+The Elder Scroll V
+	-Steam Game = True
+    -Time Played = 150
+    -Realease Date = 2011 
+    -Genre = ["Action role-playing"]
+    -Achievments Completion = {75: 75}
+    -Developper Studio = ["Bethesda Game Studios"]
+    -Metacritic Score = 94
+Portal
+	-Steam Game = True
+    -Time Played = 15
+    -Realease Date = 2007
+    -Genre = ["Puzzle-platform"]
+    -Achievments Completion = {15: 15}
+    -Developper Studio = ["Valve Corporation"]
+    -Metacritic Score = 90
+Rust
+	-Steam Game = True
+    -Time Played = 154
+    -Realease Date = 2013
+    -Genre = ["Survival"]
+    -Achievments Completion = {72: 55}
+    -Developper Studio = ["Facepunch Studios Ltd", "Double Eleven"]
+    -Metacritic Score = 69
+Dofus
+	-Steam Game = False
+    -Time Played = 4748
+    -Realease Date = 2004
+    -Genre = ["MMORPG"]
+    -Achievments Completion = {21219: 20579}
+    -Developper Studio = ["Ankama"]
+    -Metacritic Score = 72
+Minecraft
+	-Steam Game = False
+    -Time Played = 0
+    -Realease Date = 2011
+    -Genre = ["Sandbox", "adventure"]
+    -Achievments Completion = {111: 111}
+    -Developper Studio = ["Mojang Studios"]
+    -Metacritic Score = 93
