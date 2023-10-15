@@ -99,3 +99,13 @@ The layout should somewhat look like this
 Now that we are aware of events let's pimp our collection and add some interactivity. 
 
 Add some filtering
+
+## Final Result
+
+![collection Result](assets/img/collection.PNG)
+
+To run it on your machine, start by cloning the repo with:
+```bash
+git clone git@github.com:DijiOfficial/FullStack-Task-Manager-With-sqlite3.git
+```
+Open the the file in Visual Studio Code or any IDE that supports Live Code features and press the "Go Live" button to start a local server. Alternatively create a local server using node.js or other alternatives.
